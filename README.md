@@ -3,9 +3,10 @@
 <!--
 **YaZOUU/YaZOUU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<code><img src="https://framalibre.org/sites/default/files/leslogos/Visual_Studio_Code_1.18_icon.png"></code>
+
 Here are some ideas to get you started:
 
+<code><img src="http://cdn.lowgif.com/full/113448e7b0ab943e-.gif"></code>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
